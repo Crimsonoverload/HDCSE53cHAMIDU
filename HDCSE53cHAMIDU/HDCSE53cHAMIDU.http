@@ -1,0 +1,6 @@
+@HDCSE53cHAMIDU_HostAddress = http://localhost:5082
+
+GET {{HDCSE53cHAMIDU_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
